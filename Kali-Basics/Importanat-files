@@ -7,4 +7,13 @@
 # This file describes the network interfaces available on your system
 # and how to activate them. For more information,
 /etc/passwd               : local user account information
-/etc/profile              : environment programs 
+/etc/profile              : environment programs
+
+/etc/resolv.conf          : name server configuration file
+/etc/shadow               : local user encrypted password hashes
+/etc/ssh/shhd_cofig       :  ssh server configuration
+/home/kali/.bashrc        : script that run in evry new terminal session
+/home/kali/.bash_history  : bash history file
+/home/kali/.zshrc         : script htat run in every new terminal
+/home/kali/.zsh_history   : zsh history file
+/var/log/apache/access.log : apache web server access log
