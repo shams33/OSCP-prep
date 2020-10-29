@@ -1,2 +1,10 @@
 /etc/apt/sources.list     : list of sources that publish Debian Packages
 /etc/fstab                : static file system information    https://www.youtube.com/watch?v=-smqBcHJGL0&ab_channel=DumbTutorials
+/etc/group                : local group information
+/etc/hostname             : local machine's hostname
+/etc/hosts                : file that maps host names to ip addresses
+/etc/network/interfaces
+# This file describes the network interfaces available on your system
+# and how to activate them. For more information,
+/etc/passwd               : local user account information
+/etc/profile              : environment programs 
