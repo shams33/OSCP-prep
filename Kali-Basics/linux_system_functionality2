@@ -51,4 +51,4 @@
    md5sum -c <file.md5>
    [-c]check or verify
    verify MD5 checksum of a file
-   
+#sha1sum --SHA1 message digest utility
