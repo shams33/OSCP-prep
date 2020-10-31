@@ -48,4 +48,7 @@
    decode a base file
 #md5sum --MD5 message digest utility 
    md5sum <file> compute MD5 checksum of a file
+   md5sum -c <file.md5>
+   [-c]check or verify
+   verify MD5 checksum of a file
    
