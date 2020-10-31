@@ -165,8 +165,10 @@ uniq -c hi.txt
    
 
 #sed -- stream editor for transforming text 
-  
+   sed 's/unix/linux/' sedlife.txt
    
+   replace pattern one with 2nd pattern 
+   for more info :https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
 
    
  
