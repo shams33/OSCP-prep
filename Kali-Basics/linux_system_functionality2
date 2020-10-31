@@ -25,6 +25,12 @@
   
 
 #tar --an archiving utility
-  tar -cvf archive.tar 
+  tar -cvf archive.tar
+  [-c]create archive [-v]verbose[-f]specify file name type
+  
+  tar -xvf <file.tar>
+  [-x]extract [-v]verbose [-f] specify the file nametype
+  extract a tar file
+  
 #unzip--extract compressed zip files
 #zip--package and compress files
