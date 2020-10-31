@@ -1,1 +1,5 @@
 
+# dos2unix --text file format converter 
+   dos2unix  <file>
+   convert a file from unix text file to DOS file format
+   
