@@ -19,8 +19,12 @@
   
 
 #gzip --compress or expand files
-  gzip -d <file> [
+  gzip -d <file> 
+  [-d] decompress a file
+  [-r] recursive
+  
 
 #tar --an archiving utility
+  tar -cvf archive.tar 
 #unzip--extract compressed zip files
 #zip--package and compress files
