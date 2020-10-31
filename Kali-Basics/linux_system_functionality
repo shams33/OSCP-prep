@@ -109,3 +109,7 @@ sort  hi.txt > sort.txt
 
 uniq -c hi.txt 
  omit repeated lines of file and show the count of repeated lines
+ 
+#comm -- compare two sorted files line by line
+ comm hi.txt sort.txt
+ it compares two files 
