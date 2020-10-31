@@ -123,4 +123,6 @@ uniq -c hi.txt
  diff -c uniq.txt sort.txt
  this compare in contexual mode
 
+# wc--print newline ,word ,byte  count for file
+
  
