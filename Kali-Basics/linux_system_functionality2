@@ -38,3 +38,4 @@
    zip resolve.zip /etc/resolv.conf
    it compress the resolve.conf file into zip archive
    
+#base64 --base64 encode/decode tool
