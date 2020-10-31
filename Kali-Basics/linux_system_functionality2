@@ -7,4 +7,8 @@
   just opposite of dos2unix
   
 # dd --convert and copy a file
-
+  sudo dd if=/dev/sda of=/dev/sdb
+  backup an entire hard disk to a secondary drive
+  sudo dd is=/dev/cdrom of=cdrom.iso bs=2048
+  create a CDROM backup to an .ISO
+  
