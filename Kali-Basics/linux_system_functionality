@@ -19,4 +19,12 @@ ls --full-time
   In this command
   it shiws us list of contents with full time details
   
+ pwd -- print the name of the current directory
  
+ cd /usr/bin/ :  change directory to kali tools binary folder
+ 
+ mkdir -p test/dir1 : it  is to create directory tree
+
+ 
+ here in thius command 
+ [-p ] parents
