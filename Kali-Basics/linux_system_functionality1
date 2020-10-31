@@ -150,6 +150,11 @@ uniq -c hi.txt
   Print selected parts of lines from each FILE to standard output.
   With no FILE, or when FILE is -, read standard input.
   Mandatory arguments to long options are mandatory for short options too.
+  cut -d ':' -f 1 /etc/passwd
+   [-d] delimeter [-f] fields select only these fields;  also print any line that contains no delimiter character, unless the -s option is specified
+   extract only user name from password
+
+
    
  
   
