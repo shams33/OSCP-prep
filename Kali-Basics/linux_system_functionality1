@@ -137,5 +137,5 @@ uniq -c hi.txt
  and output looks like this
  testingroot@kali:~/test# 
 
-awk -- pattern scanning and processing tool 
-  
+# awk -- pattern scanning and processing tool 
+  syntax: awk <options> <file>
