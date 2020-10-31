@@ -113,3 +113,5 @@ uniq -c hi.txt
 #comm -- compare two sorted files line by line
  comm hi.txt sort.txt
  it compares two files 
+
+# diff --compare line by line
