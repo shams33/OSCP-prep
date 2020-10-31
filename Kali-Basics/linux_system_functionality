@@ -76,3 +76,8 @@ touch -- change file's time stamp or create file (non root)
  [-c] no new file [-t]timestamp
  with YYDDHHMM we can set time stamp using this format
  
+ 
+ more -- to view tet files one screen at a time
+ 
+ 
+ 
