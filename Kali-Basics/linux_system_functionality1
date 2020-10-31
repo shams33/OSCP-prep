@@ -130,5 +130,7 @@ uniq -c hi.txt
   wc -w hi.txt
   [-w] : word count
   
-
+#echo --print a line of text or text 
+ echo'always try harder'
+ 
   
