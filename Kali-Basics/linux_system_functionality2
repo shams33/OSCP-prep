@@ -46,5 +46,4 @@
    base64 -d halloween.txt
    [-d] decode
    decode a base file
-   echo 'dGVzdAo=' | base64 -d
-   base64 decode the string
+#md5sum --MD5 message digest utility 
