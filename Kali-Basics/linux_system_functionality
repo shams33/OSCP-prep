@@ -40,3 +40,12 @@ forcibly remove files or directory
 
 rm -i [-i]: it gives you prompt before removal
 
+shred -- overwrite or delete a file securely
+
+shred <file> overwrites the data of the file using default (3) shredding method
+
+shred -n 6 u <file> [-n]: iterations [-u]: also removes files
+
+in this command 
+ overwrite the command 6 times and delete 
+ 
