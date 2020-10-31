@@ -47,3 +47,5 @@
    [-d] decode
    decode a base file
 #md5sum --MD5 message digest utility 
+   md5sum <file> compute MD5 checksum of a file
+   
