@@ -105,4 +105,5 @@ sort -ru file1.txt
 sort  hi.txt > sort.txt
  sort file and put sorted output in the specific file
  
+# uniq -- report or omit repeated lines
 
