@@ -16,3 +16,4 @@
 #gzip --compress or expand files
 
 #tar --an archiving utility
+#unzip--extract compressed zip files
