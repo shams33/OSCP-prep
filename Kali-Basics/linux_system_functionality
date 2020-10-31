@@ -13,3 +13,10 @@ In this command
 ls -ls 
 
 In this command 
+ [-s] it prints allocated size of the file
+ 
+ls --full-time
+  In this command
+  it shiws us list of contents with full time details
+  
+ 
