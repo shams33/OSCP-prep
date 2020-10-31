@@ -164,7 +164,8 @@ uniq -c hi.txt
    actually it show lines that do not match pattern
    
 
-   
+#sed -- stream editor for transforming text 
+  
    
 
    
