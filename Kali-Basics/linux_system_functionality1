@@ -156,7 +156,12 @@ uniq -c hi.txt
 
 #grep --print lines that match patterns 
   
- 
+   grep -in "A" hi.txt
+   [-i] : inacse sensitive [-n]:linenumber
+   show that specific pattern with line number 
+   
+   
+
    
  
   
