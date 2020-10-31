@@ -95,4 +95,4 @@ less -N /etc/passwd [-N] use line numbers
 
 tail -f <file> continuously view end of file
 
-
+sort --sort line of text 
