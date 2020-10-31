@@ -1,8 +1,15 @@
 these are commands that let us interact with the operating system.  
 
 ls commmand 
-element {
-  font-size: 100;
-ls -lahr}
+
+ls -lahr
+
+In this command 
+ [-l] is for long format
+ [-a] is for hidden files
+ [-h] is for human readable format
+ [-r] is for reverse order
+ 
+ls -ls 
 
 In this command 
