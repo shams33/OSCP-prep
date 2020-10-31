@@ -12,8 +12,12 @@
   sudo dd is=/dev/cdrom of=cdrom.iso bs=2048
   create a CDROM backup to an .ISO
 #bzip2 --block-sorting file compressor
+  bzip2 -z <filename>compress a file
+  bzip2 -d <filename> decompress a file
+  
 
 #gzip --compress or expand files
+  gzip -d <file> [
 
 #tar --an archiving utility
 #unzip--extract compressed zip files
