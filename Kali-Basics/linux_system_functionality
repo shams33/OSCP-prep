@@ -1,4 +1,8 @@
 these are commands that let us interact with the operating system.  
 
 ls commmand 
-ls -lahr
+element {
+  font-size: 100;
+ls -lahr}
+
+In this command 
