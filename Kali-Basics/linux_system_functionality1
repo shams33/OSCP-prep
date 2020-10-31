@@ -127,4 +127,8 @@ uniq -c hi.txt
   root@kali:~/test# wc -lm hi.txt
   [-l] print line count [-m] print charecter count
   print line and charecter count of file
+  wc -w hi.txt
+  [-w] : word count
+  
+
   
