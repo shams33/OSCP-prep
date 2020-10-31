@@ -41,3 +41,5 @@
 #base64 --base64 encode/decode tool
    base64 <file> 
    encode the contents of a file to base64
+   echo 'happy halloween' | base64
+   base64 encode the string
