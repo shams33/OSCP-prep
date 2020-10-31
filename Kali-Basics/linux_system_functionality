@@ -107,3 +107,5 @@ sort  hi.txt > sort.txt
  
 # uniq -- report or omit repeated lines
 
+uniq -c hi.txt 
+ omit repeated lines of file and show the count of repeated lines
