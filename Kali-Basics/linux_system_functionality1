@@ -143,3 +143,8 @@ uniq -c hi.txt
   here [-F]: field separator
   extract only username from password file
   
+  root@kali:~/test# awk '/root/ {print}' /etc/passwd
+  print lines that only contains  string "root"
+  
+ 
+  
