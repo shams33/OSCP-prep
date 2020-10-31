@@ -65,5 +65,14 @@ cat <file1 > > <file2>
 overwrite file1 contents to file 2
 
 cat <file> >> <file2>
-
 append file1 content to file2
+
+
+file -- determine file type
+
+touch -- change file's time stamp or create file (non root)
+ touch -c -t YYDDHHMM <file>
+ 
+ [-c] no new file [-t]timestamp
+ with YYDDHHMM we can set time stamp using this format
+ 
