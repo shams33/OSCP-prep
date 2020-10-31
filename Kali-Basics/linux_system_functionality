@@ -101,5 +101,8 @@ sort --sort line of text
 sort -ru file1.txt
  [-r]reverse order [u]unique 
  this sorts command in reverse and remove duplicates
+
+sort  hi.txt > sort.txt
+ sort file and put sorted output in the specific file
  
 
