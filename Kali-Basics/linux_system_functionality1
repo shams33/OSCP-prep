@@ -115,3 +115,12 @@ uniq -c hi.txt
  it compares two files 
 
 # diff --compare line by line
+ diff sort.txt uniq.txt 
+ it just compare two files 
+ root@kali:~/test# diff -u uniq.txt sort.txt
+ this compare in unified mode
+ 
+ diff -c uniq.txt sort.txt
+ this compare in contexual mode
+
+ 
