@@ -49,3 +49,9 @@ shred -n 6 u <file> [-n]: iterations [-u]: also removes files
 in this command 
  overwrite the command 6 times and delete 
  
+mv  -- move or rename files 
+
+mv <options> <source> <destination>
+
+
+cp -- copy files and directories(non-root)
