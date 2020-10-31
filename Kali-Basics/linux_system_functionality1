@@ -139,3 +139,7 @@ uniq -c hi.txt
 
 # awk -- pattern scanning and processing tool 
   syntax: awk <options> <file>
+  awk -F ':' '{print$1}' /etc/passwd
+  here [-F]: field separator
+  extract only username from password file
+  
