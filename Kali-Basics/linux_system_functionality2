@@ -2,4 +2,6 @@
 # dos2unix --text file format converter 
    dos2unix  <file>
    convert a file from unix text file to DOS file format
-   
+
+# unix2dos --text file format coverter 
+  just opposite of dos2unix
