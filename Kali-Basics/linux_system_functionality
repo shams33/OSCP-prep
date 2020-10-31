@@ -28,3 +28,15 @@ ls --full-time
  
  here in thius command 
  [-p ] parents
+
+
+rmdir -p test/dir1  : deletes directory tree
+
+rm -- removes files or directories
+
+rm -rf  [-r]:recursive [-f]: force
+
+forcibly remove files or directory
+
+rm -i [-i]: it gives you prompt before removal
+
