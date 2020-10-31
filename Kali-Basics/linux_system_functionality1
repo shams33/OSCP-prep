@@ -159,6 +159,11 @@ uniq -c hi.txt
    grep -in "A" hi.txt
    [-i] : inacse sensitive [-n]:linenumber
    show that specific pattern with line number 
+   root@kali:~/test# grep -v "hi" grep.txt
+   [-v]invert match 
+   actually it show lines that do not match pattern
+   
+
    
    
 
