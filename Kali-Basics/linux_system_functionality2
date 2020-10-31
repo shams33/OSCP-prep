@@ -43,3 +43,6 @@
    encode the contents of a file to base64
    echo 'happy halloween' | base64
    base64 encode the string
+   base64 -d halloween.txt
+   [-d] decode
+   decode a base file
