@@ -124,5 +124,7 @@ uniq -c hi.txt
  this compare in contexual mode
 
 # wc--print newline ,word ,byte  count for file
-
- 
+  root@kali:~/test# wc -lm hi.txt
+  [-l] print line count [-m] print charecter count
+  print line and charecter count of file
+  
