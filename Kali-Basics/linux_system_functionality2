@@ -35,3 +35,6 @@
 #unzip--extract compressed zip files
    unzip <file>
 #zip--package and compress files
+   zip resolve.zip /etc/resolv.conf
+   it compress the resolve.conf file into zip archive
+   
