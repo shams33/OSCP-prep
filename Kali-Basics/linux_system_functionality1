@@ -145,6 +145,8 @@ uniq -c hi.txt
   
   root@kali:~/test# awk '/root/ {print}' /etc/passwd
   print lines that only contains  string "root"
-  
+ 
+# cut --remove sections from each line of file
+   
  
   
