@@ -132,5 +132,10 @@ uniq -c hi.txt
   
 #echo --print a line of text or text 
  echo'always try harder'
- 
+ root@kali:~/test# echo -n 'testing'
+ [-n]: is for no trailing line 
+ and output looks like this
+ testingroot@kali:~/test# 
+
+
   
