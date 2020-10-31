@@ -79,5 +79,20 @@ touch -- change file's time stamp or create file (non root)
  
  more -- to view tet files one screen at a time
  
+less -- view text file one screen at a time 
+
+less -N /etc/passwd [-N] use line numbers
+  it is to view output with line numbers
+  
+ head -- output the first part of the file 
  
+  head -n 14 <file> view the first 14 line of the file
  
+ tail -- output the last part of the file  
+ 
+   in this command it actually shows us last 10 lines of the file 
+
+
+tail -f <file> continuously view end of file
+
+
