@@ -33,4 +33,5 @@
   extract a tar file
   
 #unzip--extract compressed zip files
+   unzip <file>
 #zip--package and compress files
