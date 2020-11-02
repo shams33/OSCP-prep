@@ -52,3 +52,7 @@
    [-c]check or verify
    verify MD5 checksum of a file
 #sha1sum --SHA1 message digest utility
+   sha1sum -c <file.sha1>
+   [-c] check/verify
+   verify SHA1 checksum for a file
+   
