@@ -55,4 +55,6 @@
    sha1sum -c <file.sha1>
    [-c] check/verify
    verify SHA1 checksum for a file
-   
+#xxd -- make a hex dump or convert hex (non-root)
+  xxd <file> 
+  create a hex dump of a file 
