@@ -58,3 +58,8 @@
 #xxd -- make a hex dump or convert hex (non-root)
   xxd <file> 
   create a hex dump of a file 
+#man --system reference manual
+
+  man man.7 open the man.7 manual page
+  
+
