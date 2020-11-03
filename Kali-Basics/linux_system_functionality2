@@ -61,5 +61,5 @@
 #man --system reference manual
 
   man man.7 open the man.7 manual page
-  
+#apropos --search the manual page content
 
