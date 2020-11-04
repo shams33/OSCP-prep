@@ -62,4 +62,6 @@
 
   man man.7 open the man.7 manual page
 #apropos --search the manual page content
+ apropos metasploit 
+ search the man pages for the keyword metasploit
 
