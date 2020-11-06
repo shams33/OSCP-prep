@@ -69,3 +69,4 @@
 find / -name*.jpg
    find every jpg file
 #Locate --find files by name
+  locate nc.exe
