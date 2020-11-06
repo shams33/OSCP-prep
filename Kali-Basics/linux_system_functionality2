@@ -71,3 +71,6 @@ find / -name*.jpg
 #Locate --find files by name
   locate nc.exe
 #which locate a command
+  which msfconsole
+  locate msfconsole binary
+#id -- 
