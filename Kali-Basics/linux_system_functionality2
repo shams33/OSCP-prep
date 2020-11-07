@@ -75,3 +75,4 @@ find / -name*.jpg
   locate msfconsole binary
 #id --loacet userid or group
 #whoami--print effective user id
+#w -- displays who is logged on
