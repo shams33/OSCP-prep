@@ -74,3 +74,4 @@ find / -name*.jpg
   which msfconsole
   locate msfconsole binary
 #id --loacet userid or group
+#whoami--print effective user id
