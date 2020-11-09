@@ -79,3 +79,7 @@ find / -name*.jpg
 #hostname-- show or set system host name
 sudo hostname 
 set a new hostname 
+
+#arch --print machine architecture
+ arch  display machine architecture 
+ 
