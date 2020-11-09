@@ -77,4 +77,5 @@ find / -name*.jpg
 #whoami--print effective user id
 #w -- displays who is logged on
 #hostname-- show or set system host name
-
+sudo hostname 
+set a new hostname 
