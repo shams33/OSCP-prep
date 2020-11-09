@@ -76,3 +76,5 @@ find / -name*.jpg
 #id --loacet userid or group
 #whoami--print effective user id
 #w -- displays who is logged on
+#hostname-- show or set system host name
+
