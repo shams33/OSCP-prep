@@ -85,4 +85,4 @@ set a new hostname
 
 #uname -- print system information
  uname -a 
- [-a] print all system information
+ [-a] prints all system information
