@@ -86,3 +86,5 @@ set a new hostname
 #uname -- print system information
  uname -a 
  [-a] prints all system information
+
+#df -- report file system disk space usage
