@@ -84,3 +84,5 @@ set a new hostname
  arch  display machine architecture 
 
 #uname -- print system information
+ uname -a 
+ [-a] print all system information
