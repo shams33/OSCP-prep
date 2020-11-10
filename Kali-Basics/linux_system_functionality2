@@ -82,4 +82,5 @@ set a new hostname
 
 #arch --print machine architecture
  arch  display machine architecture 
-# 
+
+#uname -- print system information
