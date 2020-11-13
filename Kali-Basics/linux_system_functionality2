@@ -91,3 +91,4 @@ set a new hostname
  df -ah / 
  [-a] all information
  [-h] human readable format
+#du --estimate file space usage
