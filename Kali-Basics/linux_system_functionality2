@@ -88,3 +88,6 @@ set a new hostname
  [-a] prints all system information
 
 #df -- report file system disk space usage 
+ df -ah / 
+ [-a] all information
+ [-h] human readable format
