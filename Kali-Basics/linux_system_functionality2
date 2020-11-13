@@ -94,7 +94,15 @@ set a new hostname
 #du --estimate file space usage
  du -h 
  [-h] human readable format
- [-ah] /home
+du -ah /home
  [-a] write counts for all files 
  [-h] human readable format
+#fdisk -- manipulate disk partition table
+ sudo fdisk -l
+ [-l] list partitions and exit
+ 
+ sudo fdisk /dev/sda
+  view and manage disk partitions of device /dev/sda
+  
+
  
