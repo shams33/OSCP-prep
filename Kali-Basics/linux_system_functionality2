@@ -92,3 +92,9 @@ set a new hostname
  [-a] all information
  [-h] human readable format
 #du --estimate file space usage
+ du -h 
+ [-h] human readable format
+ [-ah] /home
+ [-a] write counts for all files 
+ [-h] human readable format
+ 
