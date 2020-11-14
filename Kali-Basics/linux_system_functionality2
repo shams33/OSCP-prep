@@ -103,6 +103,7 @@ du -ah /home
  
  sudo fdisk /dev/sda
   view and manage disk partitions of device /dev/sda
+ #ps -- view snapshot of current processes
   
 
  
