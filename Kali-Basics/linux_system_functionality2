@@ -104,6 +104,8 @@ du -ah /home
  sudo fdisk /dev/sda
   view and manage disk partitions of device /dev/sda
  #ps -- view snapshot of current processes
-  
+  ps aux
+  [a] all processes [u]display user list
+  [x]show non-attached process
 
  
