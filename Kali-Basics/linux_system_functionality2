@@ -110,6 +110,9 @@ du -ah /home
   
 #systemctl--system service manager
  sudo systemctl start apache2
+ start apache web server 
+ 
+ sudo systemctl stop apache2
  
 
  
