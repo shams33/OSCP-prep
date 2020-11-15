@@ -113,6 +113,7 @@ du -ah /home
  start apache web server 
  
  sudo systemctl stop apache2
+ stop apache webserver
  
 
  
