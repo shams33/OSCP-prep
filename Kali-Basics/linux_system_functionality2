@@ -107,5 +107,9 @@ du -ah /home
   ps aux
   [a] all processes [u]display user list
   [x]show non-attached process
+  
+#systemctl--system service manager
+
+ 
 
  
