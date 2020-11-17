@@ -119,6 +119,7 @@ du -ah /home
 #top --display linux processes
  top 
  display an active linux list of processes
+#pidof--find process id of running processes
 
 
  
