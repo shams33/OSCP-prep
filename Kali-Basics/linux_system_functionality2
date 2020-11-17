@@ -121,5 +121,8 @@ du -ah /home
  display an active linux list of processes
 #pidof--find process id of running processes
 
+ pidof bash
+ show the process id of bash
+
 
  
