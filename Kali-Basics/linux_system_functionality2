@@ -116,6 +116,7 @@ du -ah /home
  stop apache webserver
  sudo systemctl enable ssh
  enable ssh servers on startup
+#top --display linux processes
  
 
  
