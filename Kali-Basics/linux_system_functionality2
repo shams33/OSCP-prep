@@ -117,6 +117,8 @@ du -ah /home
  sudo systemctl enable ssh
  enable ssh servers on startup
 #top --display linux processes
- 
+ top 
+ display an active linux list of processes
+
 
  
