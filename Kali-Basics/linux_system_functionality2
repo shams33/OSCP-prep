@@ -123,6 +123,9 @@ du -ah /home
 
  pidof bash
  show the process id of bash
+kill--send a signal to a process 
+ kill -9 <process ID>
+ send a SIGKILL signal to a process to shutdown process immidiately
 
 
  
