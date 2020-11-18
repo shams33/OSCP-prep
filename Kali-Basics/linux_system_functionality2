@@ -130,4 +130,8 @@ du -ah /home
   run the data  command every 5 seconds and watch output 
 #stat -- display file or file system status 
   stat <file> Print in-depth file information
+  
+#Isof --list open files 
+  Isof List open files
+
  
