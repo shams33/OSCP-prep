@@ -123,9 +123,11 @@ du -ah /home
 
  pidof bash
  show the process id of bash
-kill--send a signal to a process 
+#kill--send a signal to a process 
  kill -9 <process ID>
  send a SIGKILL signal to a process to shutdown process immidiately
-watch -n 5 date
-
+#watch -n 5 date
+  run the data  command every 5 seconds and watch output 
+#stat -- display file or file system status 
+  stat <file> Print in-depth file information
  
