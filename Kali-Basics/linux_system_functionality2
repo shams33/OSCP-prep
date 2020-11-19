@@ -133,5 +133,7 @@ du -ah /home
   
 #Isof --list open files 
   Isof List open files
+#Ipsci --list all PCI device
+ Ipsci List all PCI device
 
  
