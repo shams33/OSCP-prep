@@ -135,5 +135,8 @@ du -ah /home
   Isof List open files
 #Ipsci --list all PCI device
  Ipsci List all PCI device
+ 
+#Isusb -- list USB devices 
+
 
  
