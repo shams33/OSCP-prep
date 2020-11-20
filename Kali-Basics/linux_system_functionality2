@@ -137,6 +137,8 @@ du -ah /home
  Ipsci List all PCI device
  
 #Isusb -- list USB devices 
+Isusb 
+list attached USB devices
 
 
  
