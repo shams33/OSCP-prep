@@ -140,5 +140,6 @@ du -ah /home
 Isusb 
 list attached USB devices
 
+#mount --mount a file system
 
  
