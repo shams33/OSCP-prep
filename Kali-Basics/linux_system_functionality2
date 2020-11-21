@@ -142,4 +142,7 @@ list attached USB devices
 
 #mount --mount a file system
 
+ sudo mount <device_name> /media 
+ Mount a device to the media folder
+
  
