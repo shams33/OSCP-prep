@@ -144,5 +144,7 @@ list attached USB devices
 
  sudo mount <device_name> /media 
  Mount a device to the media folder
+ 
+#unmount --unmount file system specified 
 
  
