@@ -147,4 +147,7 @@ list attached USB devices
  
 #unmount --unmount file system specified 
 
+ sudo unmount <device name> OR <mount_point>
+ unmount the file system specified
+
  
