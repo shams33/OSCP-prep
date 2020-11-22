@@ -154,3 +154,4 @@ list attached USB devices
  sudo adduser testuser
  Add the user "testuser" to the system 
  
+#deluser -- delete a user from the system
