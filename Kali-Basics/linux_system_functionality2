@@ -155,3 +155,8 @@ list attached USB devices
  Add the user "testuser" to the system 
  
 #deluser -- delete a user from the system
+
+#passwd -- change the user password 
+ passwd kali
+ change the password fro the user kali
+ 
