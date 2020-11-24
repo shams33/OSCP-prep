@@ -172,5 +172,8 @@ list attached USB devices
 #su --substitute or switch user
  su kali 
  switch to kali user from root
- 
+
+#reboot --halt,power off , or reboot the machine
+ su reboot now 
+ reboot system immediately
   
