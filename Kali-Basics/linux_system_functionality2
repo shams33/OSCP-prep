@@ -176,4 +176,8 @@ list attached USB devices
 #reboot --halt,power off , or reboot the machine
  su reboot now 
  reboot system immediately
-  
+#shutdown --halt ,poweroff ,or reboot the machine 
+ sudo shutdown -r now [-r] : reboot
+ sudo shutdown now 
+ power off system immediately 
+ 
