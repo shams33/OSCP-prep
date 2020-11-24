@@ -169,3 +169,8 @@ list attached USB devices
  sudo su 
   Switch to the root users
   
+#su --substitute or switch user
+ su kali 
+ switch to kali user from root
+ 
+  
