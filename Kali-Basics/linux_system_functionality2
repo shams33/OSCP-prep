@@ -166,4 +166,6 @@ list attached USB devices
  Display network interface configuration
  sudo -I 
   List the allowed sudo commands
+ sudo su 
+  Switch to the root users
   
