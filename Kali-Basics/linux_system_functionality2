@@ -158,7 +158,12 @@ list attached USB devices
 
 #passwd -- change the user password 
  passwd kali
- change the password fro the user kali
+ change the password for the user kali
  sudo passwd -Sa
  [-S] status [-a]
- 
+#sudo --execute a command as another user
+ sudo ifconfig
+ Display network interface configuration
+ sudo -I 
+  List the allowed sudo commands
+  
