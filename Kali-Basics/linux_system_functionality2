@@ -159,5 +159,6 @@ list attached USB devices
 #passwd -- change the user password 
  passwd kali
  change the password fro the user kali
- 
+ sudo passwd -Sa
+ [-S] status [-a]
  
