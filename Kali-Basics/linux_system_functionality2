@@ -187,3 +187,5 @@ list attached USB devices
 #vim -- a text editor program
   vim newfile.txt 
   create and edit a new test file
+  vim ~/.bashrc
+  Edit the Bash startup script
