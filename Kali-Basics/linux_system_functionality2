@@ -181,4 +181,5 @@ list attached USB devices
  sudo shutdown now 
  power off system immediately 
 #chmod --change file mods bits
- chmod +x grant execute permission on file 
+ chmod +x <file> grant execute permission on file 
+ chmod -x <file> remove execute permission on file
