@@ -183,3 +183,6 @@ list attached USB devices
 #chmod --change file mods bits
  chmod +x <file> grant execute permission on file 
  chmod -x <file> remove execute permission on file
+ 
+#vim -- a text editor program
+ 
