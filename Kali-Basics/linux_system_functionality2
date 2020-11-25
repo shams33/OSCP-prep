@@ -180,4 +180,5 @@ list attached USB devices
  sudo shutdown -r now [-r] : reboot
  sudo shutdown now 
  power off system immediately 
+#chmod --change file mods bits
  
