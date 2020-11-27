@@ -191,4 +191,6 @@ list attached USB devices
   Edit the Bash startup script 
 #vimtutor -- an interactive tutor for vim program
 
+#nano --another text editor program
+
 
