@@ -189,5 +189,6 @@ list attached USB devices
   create and edit a new test file
   vim ~/.bashrc
   Edit the Bash startup script 
-#sh
+#vimtutor -- an interactive tutor for vim program
+
 
