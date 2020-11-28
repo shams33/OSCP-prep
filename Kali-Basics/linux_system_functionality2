@@ -192,5 +192,7 @@ list attached USB devices
 #vimtutor -- an interactive tutor for vim program
 
 #nano --another text editor program
+nano ~/.bashrc
+edit the bash startup script
 
 
