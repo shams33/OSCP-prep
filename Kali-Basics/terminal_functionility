@@ -8,4 +8,7 @@
  env 
  print out a list of all environmental variables
  
- 
+#export 
+  export -- mark variables and pass to child processes
+  
+  
