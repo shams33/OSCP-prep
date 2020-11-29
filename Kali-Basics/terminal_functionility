@@ -1,1 +1,6 @@
 
+alias --define or display aliases
+ 
+ alias ll='ls -lahr'
+ create an alias that maps 'll'  to the "ls -lahr" command
+ 
