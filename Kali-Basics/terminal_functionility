@@ -11,5 +11,6 @@
 #export 
   export -- mark variables and pass to child processes
   
-  
+ #history -- display or manipulate history list
+ 
   
