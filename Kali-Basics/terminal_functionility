@@ -25,3 +25,5 @@
  source ~/.bashrc
  Reload the .bashrc file for the current session
  
+tmux -- terminal multipexer
+tmux new -s test_session
