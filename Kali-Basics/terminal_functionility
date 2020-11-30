@@ -23,3 +23,5 @@
   create a log file of everything typed in terminal session
 #source --read and execute the content of a file
  source ~/.bashrc
+ Reload the .bashrc file for the current session
+ 
