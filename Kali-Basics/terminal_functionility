@@ -11,6 +11,11 @@
 #export 
   export -- mark variables and pass to child processes
   
- #history -- display or manipulate history list
- 
-  
+#history -- display or manipulate history list
+ history -c 
+ clear the history 
+#screen -- a screen manager or multiplexer
+ screen -S test_session 
+ open a new screen session with the session 
+ name test_session
+#script --create log of terminal session 
