@@ -19,3 +19,6 @@
  open a new screen session with the session 
  name test_session
 #script --create log of terminal session 
+  script terminal.log
+  create a log file of everything typed in terminal session
+  
