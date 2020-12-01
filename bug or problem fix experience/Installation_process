@@ -25,4 +25,6 @@ java -jar burploader-old.jar
 9.alias burp='cd ~/Downloads/burp/burp && java -javaagent:BurpSuiteLoader_v2020.11.jar -noverify -jar burpsuite_pro_v2020.11.jar'
 
 video link: https://www.youtube.com/watch?v=JLQAkztsfcQ&ab_channel=VIPERZCREW
-telegram link: https://t.me/burp_chat
+telegram link: https://t.me/burp_chat/12671
+
+download  link: https://t.me/burp_chat/10792
