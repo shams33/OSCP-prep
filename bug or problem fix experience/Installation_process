@@ -3,3 +3,24 @@
  ##you are done withit
  
  ***Burpsuite Istallation process******
+1. Unzip the file 
+2. Make A Folder On Desktop (I called my "burp")
+3. Open Terminal And Install OpenJDK On v14:
+sudo apt install openjdk-14* 
+
+With the "*".
+
+4. Start Burpsuite Accept License And Wait For Activation Window
+java -javaagent:BurpSuiteLoader_v2020.11.2.jar -noverify -jar burpsuite_pro_v2020.11.2.jar
+
+5. Load The Loader 
+java -jar burploader-old.jar
+
+6. Copy The Key From Loader & Paste It On Burp Window
+
+7. Click "Manual Activation" And Get The Request Data And Paste It On Loader "Activation Request".
+
+8. Copy Activation Response And Paste On Professional Version BOOM Activated 
+
+9.alias burp='cd ~/Downloads/burp/burp && java -javaagent:BurpSuiteLoader_v2020.11.jar -noverify -jar burpsuite_pro_v2020.11.jar'
+10.
