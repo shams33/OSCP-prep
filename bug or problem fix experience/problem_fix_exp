@@ -1,3 +1,7 @@
 date:29.11.2020
 Problem :  caps lock stuck on kali 
 fix : I found that there is a specific vulnerablity in vmware 15.5 that its caps lock get stuck so this vulnerabilty is patched in 15.6 so simple way to fix this prob is just update your vmware from 15.5 to 15.6
+
+date:2.12.2020
+problem : boot manager of HP laptop 
+fix: f9 is the boot manager of HP laptop
