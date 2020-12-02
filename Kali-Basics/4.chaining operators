@@ -4,3 +4,10 @@ purpose: The ampersand operator is used to make a command run in the background
          
 python3 -m http.server 8080 &
   start an http webserver on port 8080 and run it at the background.
+
+
+#; -- semicolon operator 
+purpose : the semicolon operator makes it possible to run more than one command at a time. It will execute the sequence of commands from left to right
+
+ date;cal
+ run the date command followed by the calender command and display the output
