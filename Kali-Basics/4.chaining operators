@@ -11,3 +11,10 @@ purpose : the semicolon operator makes it possible to run more than one command 
 
  date;cal
  run the date command followed by the calender command and display the output
+ 
+#! -- NOT operator 
+purpose:the NOT operator is like "except" statement in programming 
+Practical usage :
+ rm -rf !(*.jpeg)
+ In bash this command will delete everything in the current directory except .jpeg files
+ 
