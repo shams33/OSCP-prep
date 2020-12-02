@@ -1,3 +1,6 @@
 #&--ampersand operator 
 purpose: The ampersand operator is used to make a command run in the background
          using it at the end of the command will runthe command and send it to the background,then allow you to run another command
+         
+python3 -m http.server 8080 &
+  start an http webserver on port 8080 and run it at the background.
