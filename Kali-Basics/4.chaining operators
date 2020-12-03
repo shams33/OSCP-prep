@@ -33,3 +33,6 @@ Practical usage :
  Practical Usage: ps aux > process.txt
  redirect the output of the ps command to a text file called "process.txt"
  
+# >> -- append or write standard output 
+
+ 
