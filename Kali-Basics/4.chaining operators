@@ -18,3 +18,18 @@ Practical usage :
  rm -rf !(*.jpeg)
  In bash this command will delete everything in the current directory except .jpeg files
  
+#| -- PIPE operator
+
+ purpose: The PIPE operator is used to direct the output of the first command executed into the input of the second command 
+
+ Practical usage : cat /etc/passwd | less
+ print out the less command and pipe it into the less command 
+ 
+# Redirection 
+
+#> -- write or overwrite standard output
+ Purpose : The most common usage of the greater thna symbol is to fredirect the output of  a command to a file 
+ 
+ Practical Usage: ps aux > process.txt
+ redirect the output of the ps command to a text file called "process.txt"
+ 
