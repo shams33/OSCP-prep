@@ -35,4 +35,12 @@ Practical usage :
  
 # >> -- append or write standard output 
 
+ Purpose : the double greater than symbol is used to redirect the output of a command and append it to the end of the file 
+ 
+ Practical Usage : 
+ ps aux >> process.txt
+ 
+  using the same "processes.txt" file we can append the same command results to the end of the file
+  
+
  
