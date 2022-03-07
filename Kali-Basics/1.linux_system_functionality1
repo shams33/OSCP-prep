@@ -67,6 +67,7 @@ overwrite file1 contents to file 2
 cat <file> >> <file2>
 append file1 content to file2
 
+tac --reverse of cat
 
 file -- determine file type
 
